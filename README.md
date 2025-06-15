@@ -44,9 +44,10 @@ A precisão melhora com imagens bem iluminadas e bem recortadas.
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/repositorio.git
-   cd validador_rotulos
+   cd repositorio
 
 2. Instale as dependências necessárias
+   ```bash
    $ pip install easyocr
    $ pip install reportlab
    $ pip install ttkbootstrap
